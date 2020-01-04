@@ -18,8 +18,8 @@ group :development do
 end
 
 group :test, :development do
-  gem 'rubocop', require: false
   gem 'dotenv', '~> 2.4'
+  gem 'rubocop', require: false
 end
 
 group :test do
