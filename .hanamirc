@@ -1,0 +1,3 @@
+project=webmail
+test=rspec
+template=erb
